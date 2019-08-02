@@ -3,6 +3,10 @@
 Created on Wed Jul 31 09:45:32 2019
 
 @author: Khumbelo
+
+Generate a list of 50 unique integers between 100 and 534.
+Find the minimum, maximum and median of the list 
+Sort the list in Descending order
 """
 
 import random
